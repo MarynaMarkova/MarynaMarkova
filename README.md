@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning JavaScript, CSS & HTML
 
-- 📫 You can get in touch with me here: https://www.linkedin.com/in/maryna-markova/
+- 📫 [Get in touch with me!](https://www.linkedin.com/in/maryna-markova/)
 
 <!---
 MarynaMarkova/MarynaMarkova is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
