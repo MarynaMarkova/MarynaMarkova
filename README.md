@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MarynaMarkova
 
-- 🌱 I’m currently learning JavaScript, CSS & HTML
+- 🌱 I’m currently learning GO Lang, JavaScript, CSS & HTML
 
 - 📫 [Get in touch with me!](https://www.linkedin.com/in/maryna-markova/)
 
